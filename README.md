@@ -7,5 +7,6 @@ Obrigado por sua visita e este repositorio.
 Veja como ficou : <a href="https://iurydmacedo.github.io/Pagina-Intagram/Instagram.html"> Instagram Fake </a>
 
 Criado por: Iury Macedo.
-Instagram: Iury.Macedo 📸
-Linkdin: https://www.linkedin.com/in/iurymacedo. 💼
+
+<a href="https://www.instagram.com/iurydias146/"> Instagram </a>📸
+<a href="https://www.linkedin.com/in/iurymacedo."> Linkdin </a> 💼
