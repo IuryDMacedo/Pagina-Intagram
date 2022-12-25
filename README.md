@@ -4,7 +4,7 @@ Programa criado com intuido de reproduzir o mesmo efeito da tela de Loguin do In
 
 Obrigado por sua visita e este repositorio.
 
-Veja como ficou : https://iurydmacedo.github.io/Pagina-Intagram/Instagram.html
+Veja como ficou : <a href="https://iurydmacedo.github.io/Pagina-Intagram/Instagram.html"> Instagram Fake </a>
 
 Criado por: Iury Macedo.
 Instagram: Iury.Macedo 📸
